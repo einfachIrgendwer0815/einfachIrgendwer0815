@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 You´ve found my profile! 👍 🙂<br>
-Why not take a look around here?
+Why not have a look around here?
 
 <!--
 **einfachIrgendwer0815/einfachIrgendwer0815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
