@@ -3,8 +3,6 @@
 It seems as you stumbled across my profile. 👍 🙂<br>
 If you have some time, why not look around a bit?
 
-[My Skyline 2022](https://skyline.github.com/einfachirgendwer0815/2022?annotation0=2022-01-16,2022-01-16,11%20contributions&annotation1=2022-11-05,2022-11-05,12%20contributions&annotation2=2022-09-17,2022-09-17,10%20contributions&annotation3=2022-01-09,2022-01-09,8%20contributions&annotation4=2022-05-13,2022-05-13,7%20contributions)
-
 <div style="width: 100%">
   <img align="left" style="width: 55%; height: auto;" alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=einfachIrgendwer0815&count_private=true&show_icons=true&theme=dark&title_color=0c88fc&include_all_commits=true&hide_border=true&bg_color=000" />
 
