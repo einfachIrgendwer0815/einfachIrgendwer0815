@@ -1,7 +1,11 @@
-### Hi there 👋
+## Hi there 👋
 
-It seems as you stumbled across my profile. 👍 🙂<br>
+It seems as if you stumbled across my profile. 👍 🙂<br>
 If you have some time, why not look around a bit?
+
+## Projects
+  * [`onetime-cli`](https://github.com/einfachIrgendwer0815/onetime-cli) is a command line tool for encrypting (and decrypting) files using the one-time pad
+  * [`cargo-ws-manage`](https://github.com/einfachIrgendwer0815/cargo-ws-manage) is a command line tool for creating and managing cargo workspaces
 
 <div style="width: 100%">
   <img align="left" style="width: 55%; height: auto;" alt="Github stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=einfachIrgendwer0815&count_private=true&show_icons=true&theme=dark&title_color=0c88fc&include_all_commits=true&hide_border=true&bg_color=000" />
