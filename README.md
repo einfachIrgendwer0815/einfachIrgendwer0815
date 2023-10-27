@@ -3,8 +3,12 @@
 It seems as if you stumbled across my profile. 👍 🙂<br>
 If you have some time, why not look around a bit?
 
-## Projects
-  * [`onetime-cli`](https://github.com/einfachIrgendwer0815/onetime-cli) is a command line tool for encrypting (and decrypting) files using the one-time pad
+## My projects
+  * [`onetime-cli`](https://github.com/einfachIrgendwer0815/onetime-cli) - Encrypt / decrypt files using the one-time-pad
+
+## Projects I have contributed to
+  * [`bat`](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
+  * [`pyotp`](https://github.com/pyauth/pyotp) - Python One-Time Password Library
 
 <div style="width: 100%">
   <img align="left" style="width: 55%; height: auto;" alt="Github stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=einfachIrgendwer0815&count_private=true&show_icons=true&theme=dark&title_color=0c88fc&include_all_commits=true&hide_border=true&bg_color=000&hide_rank=true" />
