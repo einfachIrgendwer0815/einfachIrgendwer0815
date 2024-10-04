@@ -4,6 +4,7 @@ It seems as if you stumbled across my profile. 👍 🙂<br>
 If you have some time, why not look around a bit?
 
 ## My projects
+  * [`devscripts`](https://github.com/einfachIrgendwer0815/devscripts) - Run path-specific (shell) scripts without the need to modify `PATH`.
   * [`onetime-cli`](https://github.com/einfachIrgendwer0815/onetime-cli) - Encrypt / decrypt files using the one-time-pad
 
 ## Projects I have contributed to
